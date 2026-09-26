@@ -1,4 +1,4 @@
-# SURE-Project-9-Task-Guidance-System-for-Table-Organization
+# Task-Guidance-System-for-Table-Organization
 A full pipeline that perceives the real world, tracks the state of a physical workflow, and provides visual feedback to guide a user.
 
 # Create and activate a virtual environment
